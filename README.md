@@ -1,14 +1,13 @@
-**Diabetes Prediction with Logistic Regression
-**
+Diabetes Prediction with Logistic Regression
+
 This notebook presents a complete machine learning pipeline for predicting diabetes using the Pima Indians Diabetes dataset. The workflow covers data preprocessing, missing value imputation, model training, and evaluation.
 
-** 
- Dataset**
+Dataset
 	•	Source: diabetes.data
 	•	Features include: Glucose, BloodPressure, SkinThickness, Insulin, BMI, Age, and more.
 	•	Target: label (1 = diabetic, 0 = non-diabetic)
 
- **Key Steps**
+ Key Steps
 	1.	Data Cleaning:
 	•	Renamed unnamed columns using appropriate feature names
 	•	Replaced invalid 0 values with NaN and imputed them using:
