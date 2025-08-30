@@ -1,4 +1,4 @@
-# Diabetes Prediction with Logistic Regression (Python)
+## Diabetes Prediction with Logistic Regression (Python)
 
 This project implements a **machine learning pipeline in Python** for predicting diabetes using the **Pima Indians Diabetes Dataset**. The workflow demonstrates the complete process of **data preprocessing, feature engineering, model training, and evaluation**.
 
